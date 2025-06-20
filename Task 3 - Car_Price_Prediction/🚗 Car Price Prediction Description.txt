@@ -1,0 +1,32 @@
+🚗 Car Price Prediction using Machine Learning
+This project was developed as part of my Data Science internship at CodeAlpha. The goal was to build a machine learning model that can accurately predict the selling price of used cars based on various features such as year, present price, kilometers driven, fuel type, transmission, and more.
+
+🔍 Project Overview
+In this project, I applied Linear Regression to analyze and predict car prices using a dataset of used cars. The focus was on understanding the relationship between car features and their market value, followed by training and evaluating a regression model for prediction.
+
+📌 Key Steps
+📂 Loaded and explored the car dataset
+
+🧹 Performed data cleaning and preprocessing
+
+🔄 Encoded categorical features using one-hot encoding
+
+➗ Split the data into training and testing sets
+
+📈 Trained a Linear Regression model
+
+📊 Evaluated model performance using R² Score and Mean Squared Error
+
+🖼️ Visualized actual vs predicted car prices
+
+🛠️ Tools & Libraries Used
+Python
+
+Pandas – data manipulation
+
+Matplotlib & Seaborn – data visualization
+
+Scikit-learn – machine learning and model evaluation
+
+📈 Outcome
+The model provides decent prediction accuracy and offers insights into how different features influence car pricing. This hands-on experience improved my skills in regression modeling, feature engineering, and evaluation of real-world data.
