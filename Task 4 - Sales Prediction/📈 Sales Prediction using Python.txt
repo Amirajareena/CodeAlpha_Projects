@@ -1,0 +1,32 @@
+📈 Sales Prediction using Python
+This project was completed as part of my Data Science Internship at CodeAlpha. The goal was to predict future sales based on features such as advertising spend, target segment, and platform using a Linear Regression model. The project focuses on transforming raw business data into actionable insights that can assist in marketing strategy and planning.
+
+🔍 Project Objectives
+Analyze and visualize sales data
+
+Prepare the dataset with data cleaning and feature transformation
+
+Convert categorical data to numerical using one-hot encoding
+
+Train a regression model to forecast sales
+
+Evaluate model performance using metrics like Mean Squared Error and R² Score
+
+Visualize the difference between actual and predicted sales
+
+🛠️ Tools & Libraries Used
+Python
+
+Pandas – data handling
+
+Matplotlib & Seaborn – visualization
+
+Scikit-learn – regression modeling and evaluation
+
+📊 Insights Delivered
+How advertising spend and platform affect sales outcomes
+
+Visualization of predicted vs actual sales performance
+
+Business insights to support data-driven marketing decisions
+
